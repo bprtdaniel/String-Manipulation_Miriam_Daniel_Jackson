@@ -1,4 +1,4 @@
-# Working with dplyr
+# Working with Stringr and Stringi
 
 
 ## Summary
